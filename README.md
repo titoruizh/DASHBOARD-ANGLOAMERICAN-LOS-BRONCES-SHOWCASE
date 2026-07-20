@@ -16,9 +16,8 @@
 
 ---
 
-> 🖼️ **[PORTADA / HERO IMAGE]**  
-> Suggested image: `assets/cover.png`  
-> Recommended: full-width screenshot of the application home screen or module selector.
+<img width="1187" height="576" alt="image" src="https://github.com/user-attachments/assets/1c6e1f64-e8e5-4e5d-940e-fe6361496b79" />
+
 
 ---
 
