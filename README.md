@@ -79,8 +79,8 @@ The platform was designed with a **feature-first modular architecture**, allowin
 
 ---
 
-> 🖼️ **[MODULE SELECTOR / HOME SCREEN]**  
-> Suggested image: `assets/module-selector.png`
+<img width="1470" height="837" alt="image" src="https://github.com/user-attachments/assets/9a421df9-a2de-4ca2-9379-650785a23d1d" />
+
 
 ---
 
@@ -148,16 +148,14 @@ The system provides a centralized view of monitored stations, historical trends 
 
 The engineering calculation logic used by the module was implemented as reusable pure functions and validated against the existing historical dataset to ensure consistency with legacy results.
 
-> 🖼️ **[2D CONVERGENCE DASHBOARD]**  
-> Suggested image: `assets/convergence-2d-dashboard.png`  
-> Show station cards, filters and alert states.
+<img width="1411" height="843" alt="image" src="https://github.com/user-attachments/assets/5ad5f4e4-5883-4024-94af-9215e328760a" />
 
-> 🖼️ **[2D STATION DETAIL]**  
-> Suggested image: `assets/convergence-2d-station.png`  
-> Show tunnel diagram, chord measurements and historical chart.
 
-> 🖼️ **[2D FIELD INGESTION WIZARD]**  
-> Suggested image: `assets/convergence-2d-ingestion.png`
+<img width="557" height="786" alt="image" src="https://github.com/user-attachments/assets/489ad4af-a62c-47f3-aedb-dba5a1bc2a31" />
+
+
+<img width="1457" height="837" alt="image" src="https://github.com/user-attachments/assets/43a6e5e6-d3f0-4c92-9990-a7f666ee0c65" />
+
 
 ---
 
@@ -182,11 +180,14 @@ This module separates 3D monitoring from the extensometric 2D workflow while reu
 
 This separation allows 2D and 3D monitoring workflows to evolve independently without mixing their engineering logic or data models.
 
-> 🖼️ **[3D CONVERGENCE DASHBOARD]**  
-> Suggested image: `assets/convergence-3d-dashboard.png`
+<img width="1445" height="862" alt="image" src="https://github.com/user-attachments/assets/b6ccbe66-a0fb-47a2-90b3-afe7ae44f858" />
 
-> 🖼️ **[3D STATION DETAIL]**  
-> Suggested image: `assets/convergence-3d-station.png`
+
+<img width="1465" height="601" alt="image" src="https://github.com/user-attachments/assets/2ad898ac-7f5b-45d9-a6ee-bbf3da93ba3a" />
+
+
+<img width="1427" height="808" alt="image" src="https://github.com/user-attachments/assets/44705e50-8cdd-44a9-849b-92a753734781" />
+
 
 ---
 
@@ -230,10 +231,6 @@ Mobile Web App / PWA
 
 This approach allows field workflows to continue without forcing operators to maintain parallel paper or spreadsheet processes solely because of connectivity limitations.
 
-> 🖼️ **[OFFLINE MODE]**  
-> Suggested image: `assets/offline-mode.png`  
-> Show the offline banner and pending synchronization counter.
-
 ---
 
 # High-Level Architecture
@@ -270,9 +267,6 @@ This approach allows field workflows to continue without forcing operators to ma
                 PDF · PNG · Excel · ZIP · Clipboard
 ```
 
-> 🖼️ **[ARCHITECTURE DIAGRAM]**  
-> Suggested image: `assets/architecture.png`  
-> Replace the text diagram above with a polished architecture diagram if available.
 
 ---
 
@@ -378,11 +372,8 @@ Supported outputs include:
 - HTML/TSV clipboard tables for Word and Excel.
 - PNG chart clipboard export for reports and presentations.
 
-> 🖼️ **[REPORT EXPORT MODAL]**  
-> Suggested image: `assets/report-export.png`
+![Uploading image.png…]()
 
-> 🖼️ **[EXPORTED REPORT EXAMPLE]**  
-> Suggested image: `assets/report-example.png`
 
 ---
 
@@ -485,41 +476,6 @@ Isolated engineering formulas into reusable functions and validated results agai
 
 Implemented configurable exports to Excel, PDF, PNG and clipboard formats directly from the application.
 
----
-
-# Screenshots
-
-A recommended gallery order for this portfolio repository:
-
-### Application Home
-
-> 🖼️ **[1 — PORTADA / MODULE SELECTOR]**
-
-### Hydraulic Monitoring
-
-> 🖼️ **[2 — FLOW DASHBOARD]**
-
-> 🖼️ **[3 — MOBILE FIELD DATA ENTRY]**
-
-> 🖼️ **[4 — REPORT EXPORT]**
-
-### 2D Convergence
-
-> 🖼️ **[5 — CONVERGENCE DASHBOARD]**
-
-> 🖼️ **[6 — STATION DETAIL]**
-
-> 🖼️ **[7 — FIELD INGESTION WIZARD]**
-
-### 3D Convergence / TLS
-
-> 🖼️ **[8 — 3D DASHBOARD]**
-
-> 🖼️ **[9 — 3D STATION DETAIL]**
-
-### Offline Workflow
-
-> 🖼️ **[10 — OFFLINE MODE / PENDING SYNC]**
 
 ---
 
@@ -583,7 +539,7 @@ The platform has progressed from a hydraulic monitoring dashboard into a broader
 **Tito Ruiz**  
 Geospatial Engineer · Mining Technology · GeoAI · Software Development
 
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)
+[GitHub](https://github.com/titoruizh) · [LinkedIn](https://www.linkedin.com/in/tito-ruiz-haros/))
 
 ---
 
