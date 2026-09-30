@@ -11,8 +11,6 @@
 
 > **Portfolio notice**  
 > This repository is a public technical showcase of a private production project. Source code, credentials, internal operational data, proprietary documents, and sensitive infrastructure details are intentionally not included.
->
-> The client/site is intentionally anonymized in this public version. Company or project branding should only be added if publication is authorized.
 
 ---
 
@@ -371,9 +369,6 @@ Supported outputs include:
 - ZIP packages for mass reporting.
 - HTML/TSV clipboard tables for Word and Excel.
 - PNG chart clipboard export for reports and presentations.
-
-![Uploading image.png…]()
-
 
 ---
 
